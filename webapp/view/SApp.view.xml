@@ -1,0 +1,5 @@
+<mvc:View controllerName="DeviationApproval.ZDeviationApproval.controller.SApp" xmlns:mvc="sap.ui.core.mvc"
+	xmlns:html="http://www.w3.org/1999/xhtml" displayBlock="true" xmlns="sap.m">
+	<SplitApp id="idApp" >
+	</SplitApp>
+</mvc:View>
